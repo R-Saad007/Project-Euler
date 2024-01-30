@@ -1,2 +1,2 @@
 # Solved Project Euler Problems
-### You can find these problems solved in Python in the Problems folder
+### I have used Python to solve these problems. Feel free to use any other programming language. Happy Coding!
